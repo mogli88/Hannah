@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/01_Scenes/160603_Hannah.unity
+  isLoaded: 1
+  isActive: 1

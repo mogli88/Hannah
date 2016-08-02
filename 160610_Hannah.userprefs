@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\05_Scripts\RandomColor.cs">
+    <Files>
+      <File FileName="Assets\05_Scripts\Attractor.cs" Line="54" Column="1" />
+      <File FileName="Assets\05_Scripts\Camera\FreeLookCam.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Windows\Kinect\TrackingState.cs" Line="1" Column="1" />
+      <File FileName="Assets\05_Scripts\RandomColor.cs" Line="49" Column="3" />
+      <File FileName="Assets\05_Scripts\TSPS-Scripts\OpenTSPSUnityListener.cs" Line="1" Column="1" />
+      <File FileName="Assets\05_Scripts\Camera\PivotBasedCameraRig.cs" Line="1" Column="1" />
+      <File FileName="Assets\05_Scripts\Camera\AbstractTargetFollower.cs" Line="1" Column="1" />
+      <File FileName="Assets\05_Scripts\Kinect\MovementTracker.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

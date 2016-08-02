@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/06_Scripts/Gravity_ChangeAfterTime.cs">
+    <Files>
+      <File FileName="Assets/06_Scripts/Gravity_ChangeAfterTime.cs" Line="48" Column="19" />
+      <File FileName="Assets/06_Scripts/ClothBehavior.cs" Line="11" Column="1" />
+      <File FileName="Assets/06_Scripts/Attractor.cs" Line="42" Column="3" />
+      <File FileName="Assets/06_Scripts/WorldRules.cs" Line="11" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
