@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\05_Scripts\SmoothFollow.cs">
+    <Files>
+      <File FileName="Assets\05_Scripts\Kinect\MovementTrackerOLD.cs" Line="4" Column="32" />
+      <File FileName="Assets\05_Scripts\Camera\FreeLookCam.cs" Line="17" Column="66" />
+      <File FileName="Assets\05_Scripts\Kinect\MovementTracker.cs" Line="101" Column="7" />
+      <File FileName="Assets\05_Scripts\ClothBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\05_Scripts\Attractor.cs" Line="1" Column="1" />
+      <File FileName="Assets\05_Scripts\SmoothFollow.cs" Line="10" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
