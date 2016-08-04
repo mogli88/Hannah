@@ -76,6 +76,9 @@
      <Compile Include="Assets\09_OpenTSPS\Plugins\TSPS\OpenTSPSListener.cs" />
      <Compile Include="Assets\09_OpenTSPS\Plugins\TSPS\OpenTSPSPerson.cs" />
      <Compile Include="Assets\09_OpenTSPS\Plugins\TSPS\OpenTSPSReceiver.cs" />
+     <Compile Include="Assets\CameraMultitarget\Scripts\CameraMultiTargetObjective.cs" />
+     <Compile Include="Assets\CameraMultitarget\Scripts\CameraMultitarget.cs" />
+     <Compile Include="Assets\CameraMultitarget\Scripts\Demo\CharacterMovement.cs" />
      <Compile Include="Assets\ChangeCamera.cs" />
      <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\ViewModel\left.p.txt" />
      <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\EvalModel\right.p.txt" />
